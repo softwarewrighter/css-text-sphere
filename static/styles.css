@@ -65,18 +65,103 @@ body {
 
 .orbit-1 {
   animation: orbit 6s linear infinite;
+  animation-delay: 0s;
   animation-fill-mode: backwards;
 }
 
 .orbit-2 {
   animation: orbit 6s linear infinite;
-  animation-delay: 2s;
+  animation-delay: 0.353s;
   animation-fill-mode: backwards;
 }
 
 .orbit-3 {
   animation: orbit 6s linear infinite;
-  animation-delay: 4s;
+  animation-delay: 0.706s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-4 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 1.059s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-5 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 1.412s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-6 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 1.765s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-7 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 2.118s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-8 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 2.471s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-9 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 2.824s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-10 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 3.176s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-11 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 3.529s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-12 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 3.882s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-13 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 4.235s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-14 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 4.588s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-15 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 4.941s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-16 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 5.294s;
+  animation-fill-mode: backwards;
+}
+
+.orbit-17 {
+  animation: orbit 6s linear infinite;
+  animation-delay: 5.647s;
   animation-fill-mode: backwards;
 }
 
