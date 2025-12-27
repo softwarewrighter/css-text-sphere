@@ -4,7 +4,7 @@ A pure HTML/CSS 3D text orbiting sphere demo. No JavaScript, Rust, or frameworks
 
 [**View Live Demo**](https://softwarewrighter.github.io/css-text-sphere/)
 
-![Screenshot](images/screenshot.png?ts=1766771124506)
+![Screenshot](images/screenshot.png?ts=1735272000000)
 
 ## Features
 
