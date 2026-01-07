@@ -2,7 +2,7 @@
 
 A pure HTML/CSS 3D text orbiting sphere demo. No JavaScript, Rust, or frameworks required - just modern CSS3 transforms and animations.
 
-[**View Live Demo**](https://softwarewrighter.github.io/css-text-sphere/)
+[**View Live Demo**](https://softwarewrighter.github.io/css-text-sphere/) <also: [YouTube explainer video](https://www.youtube.com/watch?v=x8x_SjzD50E)  >
 
 ![Screenshot](images/screenshot.png?ts=1735272000000)
 
